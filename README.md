@@ -26,8 +26,8 @@
 # 安装项目依赖
 npm install
 
-# 安装 Playwright 浏览器
-npx playwright install
+# 安装 Playwright Chromium 浏览器
+npx playwright install chromium
 ```
 
 ### 运行测试
